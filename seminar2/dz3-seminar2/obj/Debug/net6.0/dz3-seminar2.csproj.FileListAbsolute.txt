@@ -1,0 +1,15 @@
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\bin\Debug\net6.0\dz3-seminar2.exe
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\bin\Debug\net6.0\dz3-seminar2.deps.json
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\bin\Debug\net6.0\dz3-seminar2.runtimeconfig.json
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\bin\Debug\net6.0\dz3-seminar2.dll
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\bin\Debug\net6.0\dz3-seminar2.pdb
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\obj\Debug\net6.0\dz3-seminar2.csproj.AssemblyReference.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\obj\Debug\net6.0\dz3-seminar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\obj\Debug\net6.0\dz3-seminar2.AssemblyInfoInputs.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\obj\Debug\net6.0\dz3-seminar2.AssemblyInfo.cs
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\obj\Debug\net6.0\dz3-seminar2.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\obj\Debug\net6.0\dz3-seminar2.dll
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\obj\Debug\net6.0\refint\dz3-seminar2.dll
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\obj\Debug\net6.0\dz3-seminar2.pdb
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\obj\Debug\net6.0\dz3-seminar2.genruntimeconfig.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\Семинары\seminar2\dz3-seminar2\obj\Debug\net6.0\ref\dz3-seminar2.dll

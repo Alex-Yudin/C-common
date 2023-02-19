@@ -1,0 +1,15 @@
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\obj\Debug\net6.0\example4.csproj.AssemblyReference.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\obj\Debug\net6.0\example4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\obj\Debug\net6.0\example4.AssemblyInfoInputs.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\obj\Debug\net6.0\example4.AssemblyInfo.cs
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\obj\Debug\net6.0\example4.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\bin\Debug\net6.0\example4.exe
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\bin\Debug\net6.0\example4.deps.json
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\bin\Debug\net6.0\example4.runtimeconfig.json
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\bin\Debug\net6.0\example4.dll
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\bin\Debug\net6.0\example4.pdb
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\obj\Debug\net6.0\example4.dll
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\obj\Debug\net6.0\refint\example4.dll
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\obj\Debug\net6.0\example4.pdb
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\obj\Debug\net6.0\example4.genruntimeconfig.cache
+C:\Users\Алексей\YandexDisk-yudin6608\ПРОГРАММИРОВАНИЕ\3. Знакомство с языками программирования\лекции\2-Знакомство с функциями и массивами\lesson2\example4\obj\Debug\net6.0\ref\example4.dll
